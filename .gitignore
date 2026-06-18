@@ -1,0 +1,10 @@
+logs/
+models/
+__pycache__/
+*.pyc
+.env
+.env
+*.log
+logs/
+models/
+__pycache__/
